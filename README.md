@@ -1,2 +1,2 @@
 # Ticketbooking_Development
-This repository is to develop a online ticket booking
+This repository is to develop a online ticket booking for Senior Citizens.
