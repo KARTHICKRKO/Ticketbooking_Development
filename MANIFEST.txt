@@ -16,7 +16,7 @@ Class-Path: lib/webdrivermanager-5.0.3.jar lib/slf4j-api-1.7.32.jar lib/
  ec-0.1.2.jar lib/extentreports-5.0.9.jar lib/rxjava-3.0.4.jar lib/react
  ive-streams-1.0.3.jar lib/freemarker-2.3.30.jar lib/lombok-1.18.12.jar 
  lib/selenium-java-3.141.59.jar lib/selenium-api-3.141.59.jar lib/seleni
- um-chrome-driver-3.141.59.jar lib/selenium-edge-driver-3.141.59.jar lib
+ um-chrome-driver-3.141.59.jar lib/selenium-edge-drver-3.141.59.j
  /selenium-firefox-driver-3.141.59.jar lib/selenium-ie-driver-3.141.59.j
  ar lib/selenium-opera-driver-3.141.59.jar lib/selenium-remote-driver-3.
  141.59.jar lib/selenium-safari-driver-3.141.59.jar lib/selenium-support
