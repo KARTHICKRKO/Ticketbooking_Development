@@ -30,5 +30,5 @@ Created-By: Maven Integration for Eclipse
 Edited By: Updated Version
 New Feature: Video-Audio 
 Adding PNR Enquiry for booked ticket.
-
+Added group feature to include upto 100 users
 
